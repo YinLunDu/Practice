@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635573771 source:c:\users\louie\onedrive\桌面\練習\中位數\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
